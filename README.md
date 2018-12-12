@@ -1,2 +1,3 @@
 # Pandas-Portfolio
-Econ 690 Work
+
+Econ 690 Portfolio. **Welcome**
