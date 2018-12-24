@@ -6,3 +6,4 @@ The work is all in Python using multiple packages, including: Pandas, Matplotlib
 
 There are multiple exercises, two take-home exams, and a final project
 
+**Welcome**
